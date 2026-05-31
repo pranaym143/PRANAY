@@ -1,0 +1,6 @@
+{
+  "name": "The White Room Archives",
+  "description": "A premium, free digital training library and archive focused on psychology, behavioral analysis, emotional intelligence, critical thinking, observation, discipline, and strategic self-mastery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
